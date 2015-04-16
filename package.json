@@ -1,0 +1,20 @@
+{
+  "name": "clever-johnny",
+  "version": "0.0.1",
+  "description": "Random dialog using Cleverbots talking to each other and Johnny-Five animation",
+  "main": "clever-johnny.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "David Resseguie <david@resseguie.com>",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/Resseguie/clever-johnny.git"
+  },
+  "license": "MIT",
+  "dependencies": {
+    "cleverbot-node": "^0.1.8",
+    "johnny-five": "^0.8.56",
+    "say": "^0.6.0"
+  }
+}
