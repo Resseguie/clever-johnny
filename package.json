@@ -13,8 +13,8 @@
   },
   "license": "MIT",
   "dependencies": {
-    "cleverbot-node": "^0.1.8",
-    "johnny-five": "^0.8.56",
+    "cleverbot-node": "AvatarKava/cleverbot-node",
+    "johnny-five": "latest",
     "say": "^0.6.0"
   }
 }
